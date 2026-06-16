@@ -1,10 +1,10 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome+to+My+Github&height=200)
 
-##Connect with me
-[![LinkedIn](https://img.shields.io/badge/Reddit?logo=reddit)](https://reddit.com/acetrickster1)
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/Reddit?logo=reddit)](https://reddit.com/u/acetrickster1)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/acetrickster_1)
 
-#About Me
+# About Me
 
 Hello I'm Ashutosh Shakya -- a Backend Developer focused on buildinng Web Application with Python, Django, REST APIs.
                             I value structure, performance, long-term maintainability.
@@ -15,18 +15,18 @@ Hello I'm Ashutosh Shakya -- a Backend Developer focused on buildinng Web Applic
                                         Python/Django/REST APIs
                                       Strong github collaboration
 
-##Tech Stack
+## Tech Stack
 
-###Core Technologies
+### Core Technologies
 Python • JavaScript • HTML • CSS • SQL • Github • SAAS
 
-###Frameworks & Libraries
+### Frameworks & Libraries
 Django • Django REST Framework • Bootsrap • REDUX
 
 ###Databases
 SQLite • MongoDB • MySQL
 
-#Statistics
+# Statistics
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Acetrickster&show_icons=true&theme=dark)
