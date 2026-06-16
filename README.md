@@ -23,7 +23,7 @@ Python • JavaScript • HTML • CSS • SQL • Github • SAAS
 ### Frameworks & Libraries
 Django • Django REST Framework • Bootsrap • REDUX
 
-###Databases
+### Databases
 SQLite • MongoDB • MySQL
 
 # Statistics
