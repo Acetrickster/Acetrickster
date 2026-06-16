@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome+to+My+Github&height=200)
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/Reddit?logo=reddit)](https://reddit.com/u/acetrickster1)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://reddit.com/u/Acetrickster1)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/acetrickster_1)
 
 # About Me
