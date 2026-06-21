@@ -1,8 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome+to+Ace's+Github&height=200)
 
 ## Connect with me
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](https://reddit.com/u/Acetrickster1)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/acetrickster_1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/acetrickster_)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32861402/ashutosh-shakya)
 
 # About Me
 
