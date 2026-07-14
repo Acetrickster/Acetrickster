@@ -28,9 +28,10 @@ SQLite • MongoDB • MySQL
 # Statistics
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Acetrickster&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Acetrickster&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acetrickster&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Acetrickster&layout=compact&theme=dark)
+
 
 ![Streak](https://streak-stats.demolab.com?user=Acetrickster&theme=dark)
 
