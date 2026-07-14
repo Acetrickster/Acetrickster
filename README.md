@@ -20,7 +20,7 @@ Hello I'm Ashutosh Shakya -- a Backend Developer focused on buildinng Web Applic
 Python • JavaScript • HTML • CSS • SQL • Github • SAAS
 
 ### Frameworks & Libraries
-Django • Django REST Framework • Bootsrap • REDUX • FastAPI
+Django • Django REST Framework • Bootsrap • REDUX • FastAPI • React
 
 ### Databases
 SQLite • MongoDB • MySQL
