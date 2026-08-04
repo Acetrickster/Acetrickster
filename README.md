@@ -15,13 +15,32 @@ Hello I'm Ashutosh Shakya -- a Backend Developer focused on buildinng Web Applic
 ## Tech Stack
 
 ### Core Technologies
-Python • JavaScript • HTML • CSS • SQL • Github • SAAS
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="GitHub" />
+</p>
 
 ### Frameworks & Libraries
-Django • Django REST Framework • Bootsrap • REDUX • FastAPI • React
+<p align="left">
+  <img src="https://shields.io" alt="Django" />
+  <img src="https://shields.io" alt="Django REST Framework" />
+  <img src="https://shields.io" alt="Bootstrap" />
+  <img src="https://shields.io" alt="Redux" />
+  <img src="https://shields.io" alt="FastAPI" />
+  <img src="https://shields.io" alt="React" />
+</p>
 
 ### Databases
-SQLite • MongoDB • MySQL
+<p align="left">
+  <img src="https://shields.io" alt="SQLite" />
+  <img src="https://shields.io" alt="MongoDB" />
+  <img src="https://shields.io" alt="MySQL" />
+</p>
+
 
 # Statistics
 
