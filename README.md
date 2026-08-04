@@ -16,30 +16,30 @@ Hello I'm Ashutosh Shakya -- a Backend Developer focused on buildinng Web Applic
 
 ### Core Technologies
 <p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="GitHub" />
+  <img src="https://jsdelivr.net" alt="Python" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://jsdelivr.net" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://jsdelivr.net" alt="HTML5" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://jsdelivr.net" alt="CSS3" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://jsdelivr.net" alt="MySQL" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://jsdelivr.net" alt="GitHub" width="40" height="40" style="margin-right: 10px;" />
 </p>
 
 ### Frameworks & Libraries
 <p align="left">
-  <img src="https://shields.io" alt="Django" />
-  <img src="https://shields.io" alt="Django REST Framework" />
-  <img src="https://shields.io" alt="Bootstrap" />
-  <img src="https://shields.io" alt="Redux" />
-  <img src="https://shields.io" alt="FastAPI" />
-  <img src="https://shields.io" alt="React" />
+  <img src="https://jsdelivr.net" alt="Django" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://jsdelivr.net" alt="Bootstrap" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://jsdelivr.net" alt="Redux" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://jsdelivr.net" alt="FastAPI" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://jsdelivr.net" alt="React" width="40" height="40" style="margin-right: 10px;" />
 </p>
 
 ### Databases
 <p align="left">
-  <img src="https://shields.io" alt="SQLite" />
-  <img src="https://shields.io" alt="MongoDB" />
-  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://jsdelivr.net" alt="SQLite" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://jsdelivr.net" alt="MongoDB" width="40" height="40" style="margin-right: 10px;" />
+  <img src="https://jsdelivr.net" alt="MySQL" width="40" height="40" style="margin-right: 10px;" />
 </p>
+
 
 
 # Statistics
